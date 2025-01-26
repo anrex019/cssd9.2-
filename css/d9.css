@@ -1091,6 +1091,8 @@ input::placeholder {
         width: 100%;
     }
 
+   
+
 }
 
 @media screen and (max-width: 768px) {
@@ -1126,7 +1128,7 @@ input::placeholder {
     }
 
     .full_lastfooter {
-        max-width: 256px;
+   
         width: 100%;
     }
 
